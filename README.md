@@ -1,4 +1,4 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
-![ParentCategoryOutcomes](Images/ParentCategoryOutcomes.png)
+![Outcomes_vs_Goals](Kickstarter_Challenge/Resources/Outcomes_vs_Goals)
 
