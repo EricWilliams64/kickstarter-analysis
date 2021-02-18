@@ -5,5 +5,5 @@
 --
 
 ## A graph based on the Theater Outcomes vs the Launch Date
-<img src="Kickstarter_Challenge/Resources/Theater_Outcomes_vs_launch.png" alt="Theater Outcomes vs Launch" width="600"/>
+<img src="Kickstarter_Challenge/Resources/Theater_Outcomes_vs_Launch.png" width="600"/>
 --
